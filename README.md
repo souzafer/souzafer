@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @souzafer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Maely diário
+-
 
-<!---
-souzafer/souzafer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+06/11/2023
+Hoje eu fiz:
+seis atividades
+assisti um video de 15min, um de 4min e um de 12 min.
